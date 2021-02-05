@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+
+h2 {
+    font-size: 3.5rem;
+    color: red;
+    font-size: 16px;
+}
+
+.mainTitle {
+    font-size: 8vw;
+    text-align: center;
+}
+
+.mainBox {
+    text-align: center;
+    float: left;
+    width: 30%;
+    margin-left: 20%;
+    text-shadow: black;
+
+}
+
+.mainBox_2 {
+    text-align: center;
+    float: left;
+    width: 30%;
+    margin-right: 20%;
+    text-shadow: black;
+    margin-bottom: 12%;
+}
+
+.title {
+    font-size: 3rem;
+    text-shadow: 1px 1px black;
+    color: cyan;
+}
